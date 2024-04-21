@@ -28,8 +28,6 @@
 - Enhancing database management skills
 - Continuous improvement in coding practices
 
-🌐 Visit my [portfolio website]: https://farsanasakkeer.github.io/
-
 ## 👯 Looking to Collaborate On
 
 - Innovative C language projects
@@ -49,9 +47,14 @@
 - Data Science
 - Wordpress
 
-## 📫 How to Reach Me
 
-- LinkedIn: https://www.linkedin.com/in/farsana-vs-099a701a0/
-- Email: farsanasakkeer777@gmail.com
+- 🌐 Visit my [portfolio website](https://farsanasakkeer.github.io/) for more insights into my projects and articles.
+
+
+### 📫 How to Reach Me
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/farsana-vs-099a701a0/)
+- **Email:** farsanasakkeer777@gmail.com
+
   
 ## ⚡ Fun Fact
