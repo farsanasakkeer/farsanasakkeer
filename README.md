@@ -4,6 +4,8 @@
 
 🌱 Collaborating on projects at 42 Abu Dhabi University of Coding Abu Dhabi.
 
+⚡ Fun Fact: My coding errors are like cooking experiments — sometimes they turn out surprisingly well! 😄
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farsanasakkeer&label=Profile%20views&color=0e75b6&style=flat" alt="farsanasakkeer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farsanasakkeer" alt="farsanasakkeer" /></a> </p>
@@ -75,4 +77,6 @@
 - 📧**Email:** farsanasakkeer777@gmail.com 
 
   
-## ⚡ Fun Fact
+## ⚡ Fun Fact:
+
+I love experimenting with new recipes and cuisines in the kitchen! My favorite part? Enjoying the delicious results afterwards. 🍽️👩‍🍳
