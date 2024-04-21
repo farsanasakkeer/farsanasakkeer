@@ -55,8 +55,9 @@
 - 
 ## 📫 How to Reach Me
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/farsana-vs-099a701a0/
 - Email: farsanasakkeer777@gmail.com
+- web: https://farsanasakkeer.github.io/
 ## ⚡ Fun Fact
 
 - Solved a complex coding problem while sleep-deprived!
