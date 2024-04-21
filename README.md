@@ -46,7 +46,7 @@
 - Database management and troubleshooting
 - Data Science
 - Wordpress
-- 
+
 ## 📫 How to Reach Me
 
 - LinkedIn: https://www.linkedin.com/in/farsana-vs-099a701a0/
