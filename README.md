@@ -32,12 +32,23 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farsanasakkeer&show_icons=true&locale=en&layout=compact" alt="farsanasakkeer" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farsanasakkeer&show_icons=true&locale=en" alt="farsanasakkeer" /></p>
+### 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farsanasakkeer&" alt="farsanasakkeer" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farsanasakkeer&layout=compact&langs_count=6" alt="Top Languages"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farsanasakkeer&show_icons=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farsanasakkeer" alt="GitHub Streak Stats"/>
+</p>
+
+---
 - Advancements in cloud computing
 - Enhancing database management skills
 - Continuous improvement in coding practices
