@@ -53,8 +53,8 @@
 
 ### 📫 How to Reach Me
 
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/farsana-vs-099a701a0/) 📎
-- **Email:** farsanasakkeer777@gmail.com 📧
+- 📎**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/farsana-vs-099a701a0/) 
+- 📧**Email:** farsanasakkeer777@gmail.com 
 
   
 ## ⚡ Fun Fact
