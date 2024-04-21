@@ -1,15 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Farsana Sakkeer! 👋
 
+🔭 I’m currently working on mastering C/C++ language intricacies and exploring data science and backend development.
 
-
-
-- 🔭 I’m currently working on CPP
-
-
-- Mastering C language intricacies
-- Exploring Data science and backend development
-- Collaborative projects at 42 Abu Dhabi University of Coding AbuDhabi
-
+🌱 Collaborating on projects at 42 Abu Dhabi University of Coding Abu Dhabi.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farsanasakkeer&label=Profile%20views&color=0e75b6&style=flat" alt="farsanasakkeer" /> </p>
 
