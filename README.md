@@ -17,8 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amruazb" target="blank"><img align="center" src="https://github.com/amruazb/cursus42/blob/master/X_logo_2023.svg" alt="amruazb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amruazb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amruazb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/farsana-vs-099a701a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farsanasakkeer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
