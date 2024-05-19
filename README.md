@@ -68,7 +68,7 @@
 - Wordpress
 
 
-🌐 Visit my [portfolio website](https://farsanasakkeer.github.io/) for more insights into my projects and articles.
+
 
 
 ### 📫 How to Reach Me
