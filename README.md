@@ -32,7 +32,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farsanasakkeer&layout=compact&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farsanasakkeer&layout=compact&langs_count=9" alt="Top Languages"/>
 </p>
 
 <p align="center">
